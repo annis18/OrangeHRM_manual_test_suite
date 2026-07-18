@@ -61,7 +61,7 @@ During test execution, **4 primary defects** were identified and logged:
 *Caption: Baseline UI verification of the OrangeHRM authentication portal.*
 
 ### 2. Successful Authentication (TC_01)
-![Valid Login](./02_Valid_Login.jpg)
+![Valid Login](./02_Valid_Login.png)
 *Caption: Successful authentication and redirection to the employee Dashboard.*
 
 ### 3. Invalid Credentials Validation (TC_02 - TC_04)
