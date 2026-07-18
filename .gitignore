@@ -1,0 +1,12 @@
+# Ignore Windows and Mac system hidden files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary Excel lock files and backups
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Ignore general OS & editor junk files
+*.swp
+*~
