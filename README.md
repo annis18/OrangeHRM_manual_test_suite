@@ -59,32 +59,32 @@ During test execution, **4 primary defects** were identified and logged:
 ## 📸 Test Execution Screenshots
 
 ### 1. Initial Login Page Interface
-![Login Page](https://annis18.github.io/OrangeHRM_manual_test_suite/01_Login_Page.png)
+![Login Page](Images/01_Login_Page.png)
 
 *Caption: Baseline UI verification of the OrangeHRM authentication portal.*
 
 ### 2. Successful Authentication (TC_01)
-![Valid Login](https://annis18.github.io/OrangeHRM_manual_test_suite/02_Valid_Login.png)
+![Valid Login](Images/02_Valid_Login.png)
 
 *Caption: Successful authentication and redirection to the employee Dashboard.*
 
 ### 3. Invalid Credentials Validation (TC_02 - TC_04)
-![Invalid Credentials](https://annis18.github.io/OrangeHRM_manual_test_suite/03_Invalid_Credentials.png)
+![Invalid Credentials](Images/03_Invalid_Credentials.png)
 
 *Caption: System displaying the standard "Invalid credentials" callout box upon incorrect login attempts.*
 
 ### 4. Blank Password Validation (TC_05)
-![Blank Password](https://annis18.github.io/OrangeHRM_manual_test_suite/04_Blank_Password.png)
+![Blank Password](Images/04_Blank_Password.png)
 
 *Caption: Inline "Required" error message triggered when submitting a valid username with an empty password.*
 
 ### 5. Blank Username Validation (TC_06)
-![Blank Username](https://annis18.github.io/OrangeHRM_manual_test_suite/05_Blank_Username.png)
+![Blank Username](Images/05_Blank_Username.png)
 
 *Caption: Inline "Required" error message triggered when submitting a valid password with an empty username.*
 
 ### 6. Both Fields Blank Validation (TC_09)
-![Both Fields Blank](https://annis18.github.io/OrangeHRM_manual_test_suite/06_Both_Fields_Blank.png)
+![Both Fields Blank](Images/06_Both_Fields_Blank.png)
 
 *Caption: Inline "Required" error messages triggered when submitting the login form with both input fields empty.*
 
